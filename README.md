@@ -4,8 +4,11 @@ A brief introduction to Git and GitHub, originally presented at the Digital Otto
 No... No... No...
 
 This is nice
+
 ما هو المكان الثاني
+
 من به تو نمی انداختم
+
 O kadar şeyler yapamam.
 
 The tutorial itself is [tutorial.md](tutorial.md).
